@@ -1,0 +1,8 @@
+2Krzysztof 20
+Janusz 40
+Krzysztof 20
+Janusz 40
+Wiktor 20 null
+Karol 20 Martynski
+Wiktor 20 Karas
+Wiktor 20 Karas 
